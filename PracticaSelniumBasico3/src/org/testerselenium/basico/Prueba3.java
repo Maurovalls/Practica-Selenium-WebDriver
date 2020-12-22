@@ -38,7 +38,7 @@ public class Prueba3 {
             driver.findElement(By.xpath("//input[@id = 'confirmexample']")).click();
             Alert alertTwo = driver.switchTo().alert();
             String alerTextTwo = alertTwo.getText();
-            System.out.println("El texto de la primer alerta es: "+alerTextTwo);
+            System.out.println("El texto de la segunda alerta es: "+alerTextTwo);
             alertTwo.dismiss();
             String actualResult1 = driver.findElement(By.xpath("//p[@id= 'confirmreturn']")).getText();
             if(actualResult1.contentEquals(expectedResult1)){
