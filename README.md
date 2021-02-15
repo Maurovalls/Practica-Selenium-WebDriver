@@ -1,3 +1,17 @@
 # Practica-Selenium-WebDriver
-Se pone en practica los conocimientos adquiridos del curso Selenium con Java (basico,intermedio) - cctmexico
-(Locators, WebElements, Excepciones de WebDriver, Formularios, Frames, Alerts, Implicit wait, Explicit wait, Ventanas, Eventos del raton, TestNG, Tipos de anotaciones, Parametrizacion en TestNG, Listeners, Capturas de pantalla y mas. 
+**Se pone en practica los conocimientos adquiridos del curso Selenium con Java (basico,intermedio) - cctmexico**
+- [x] Locators
+- [x] WebElements
+- [x] Excepciones de WebDriver
+- [x] Formularios
+- [x] Frames
+- [x] Alerts
+- [x] Implicit wait
+- [x] Explicit wait
+- [x] Ventanas
+- [x] Eventos del raton
+- [x] TestNG
+- [x] Tipos de anotaciones
+- [x] Parametrizacion en TestNG
+- [x] Listeners
+- [x] Capturas de pantalla y mas. 
