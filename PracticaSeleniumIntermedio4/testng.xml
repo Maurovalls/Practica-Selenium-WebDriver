@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite de pruebas">
+    <test name="Test Omayo">
+        <classes>
+            <class name="org.practica.intermedio.test.TestOmayo"></class>
+            <class name="org.practica.intermedio.test.TestOmayo1"></class>
+        </classes>
+    </test>
+</suite>
